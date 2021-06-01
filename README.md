@@ -1,4 +1,4 @@
-IBM Classic IAM permission can provide permission to individual users from portal. In order to create custom Role and access groups for Classic infrastructure users, the script will facilate to automate the process using available softlayer APIs. 
+IBM Classic IAM permission provides permission to individual users from portal. In order to create custom Role and access groups for Classic infrastructure users, the script will facilate to automate the process to customize User role and groups for Classic using available softlayer APIs. 
 
 **References:**
 - https://sldn.softlayer.com/reference/services/SoftLayer_User_Permission_Group/
